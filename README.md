@@ -4,6 +4,8 @@ Reprinting of first-wave Gothic novels in the 19th century: method and dataset
 An initial version of the data paper accompanying these datasets is published on my open notebook, _Price One Penny, new series_:
 https://popnewseries.hypotheses.org/574
 
+The following datasets are available as separate tabs in a spreadsheet provided in OpenDocument Spreadsheet (.ods), an open standard file format that can be opened in OpenOffice, LibreOffice, Excel, Numbers, or Google Spreadsheets.
+
 ## Dataset A
 The final table of 13 collections, series, or publishers from the 19th century reprinting 29 first-wave Gothic novels grouped into categories.
 
